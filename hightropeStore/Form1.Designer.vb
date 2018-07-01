@@ -503,7 +503,7 @@ Partial Class Form1
         Me.Panel1.Controls.Add(Me.Button2)
         Me.Panel1.Location = New System.Drawing.Point(0, -17)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(1073, 23)
+        Me.Panel1.Size = New System.Drawing.Size(1073, 51)
         Me.Panel1.TabIndex = 1
         '
         'Button1
